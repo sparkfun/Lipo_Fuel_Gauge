@@ -20,6 +20,7 @@ Documentation
 --------------
 * **[Particle Photon Library](https://github.com/sparkfun/SparkFun_MAX17043_Particle_Library)** - Particle Library for the MAX17043 that is used in the [SparkFun Photon Battery Shield](https://www.sparkfun.com/products/13626).
 * **[Arduino Project Example](https://learn.sparkfun.com/tutorials/wireless-joystick-hookup-guide#MAX17043)** - Arduino project example that uses the MAX17043 in the [Wireless Joystick Kit](https://www.sparkfun.com/products/14051).
+* **[Arduino Library](https://github.com/porrey/max1704x)** - Arduino library from user "porrey."
 * **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
 * **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
 
