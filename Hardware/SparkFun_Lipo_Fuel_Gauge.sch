@@ -22010,14 +22010,14 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="7.62" y1="7.62" x2="-7.62" y2="7.62" width="0.254" layer="94"/>
 <text x="-7.62" y="7.874" size="1.778" layer="95" font="vector">&gt;NAME</text>
 <text x="-7.62" y="-7.112" size="1.778" layer="96" font="vector">&gt;VALUE</text>
-<pin name="CTG" x="-10.16" y="5.08" length="short"/>
-<pin name="CELL" x="-10.16" y="2.54" length="short"/>
-<pin name="VDD" x="-10.16" y="0" length="short"/>
-<pin name="GND" x="-10.16" y="-2.54" length="short"/>
-<pin name="ALT" x="10.16" y="-2.54" length="short" rot="R180"/>
-<pin name="QST" x="10.16" y="0" length="short" rot="R180"/>
-<pin name="SCL" x="10.16" y="2.54" length="short" rot="R180"/>
-<pin name="SDA" x="10.16" y="5.08" length="short" rot="R180"/>
+<pin name="CTG" x="-10.16" y="5.08" visible="pin" length="short"/>
+<pin name="CELL" x="-10.16" y="2.54" visible="pin" length="short"/>
+<pin name="VDD" x="-10.16" y="0" visible="pin" length="short"/>
+<pin name="GND" x="-10.16" y="-2.54" visible="pin" length="short"/>
+<pin name="ALT" x="10.16" y="-2.54" visible="pin" length="short" rot="R180"/>
+<pin name="QST" x="10.16" y="0" visible="pin" length="short" rot="R180"/>
+<pin name="SCL" x="10.16" y="2.54" visible="pin" length="short" rot="R180"/>
+<pin name="SDA" x="10.16" y="5.08" visible="pin" length="short" rot="R180"/>
 </symbol>
 </symbols>
 <devicesets>
