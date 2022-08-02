@@ -1876,7 +1876,7 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <elements>
 <element name="U2" library="SparkFun-IC-Power" package="TDFN-8" value="MAX1704X" x="5.08" y="7.62" smashed="yes" rot="R270">
 <attribute name="NAME" x="6.08" y="9.62" size="0.4064" layer="25" rot="R270"/>
-<attribute name="PROD-ID" value="IC-10399" x="5.08" y="7.62" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="IC-10399" x="5.08" y="7.62" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="3.68" y="9.62" size="0.4064" layer="27" rot="R270"/>
 </element>
 <element name="C1" library="SparkFun-Capacitors" package="0402-TIGHT" value="1.0uF" x="8.89" y="12.7" smashed="yes" rot="R90">

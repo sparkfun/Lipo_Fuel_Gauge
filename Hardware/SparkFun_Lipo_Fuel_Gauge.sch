@@ -22040,7 +22040,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD-ID" value="IC-10399"/>
+<attribute name="PROD_ID" value="IC-10399"/>
 </technology>
 </technologies>
 </device>
