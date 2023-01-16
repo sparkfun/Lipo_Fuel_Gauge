@@ -1,7 +1,7 @@
 SparkFun LiPo Fuel Gauge
 ========================================
 
-![SparkFun LiPo Fuel Gauge](https://cdn.sparkfun.com//assets/parts/2/0/5/1/7/20680-_TOL_SparkFun_LiPo_Fuel_Gauge-_01.jpg)
+[![SparkFun LiPo Fuel Gauge](https://cdn.sparkfun.com//assets/parts/2/0/5/1/7/20680-_TOL_SparkFun_LiPo_Fuel_Gauge-_01.jpg)](https://www.sparkfun.com/products/20680)
 
 [*SparkFun LiPo Fuel Gauge (TOL-10617)*](https://www.sparkfun.com/products/20680)
 
