@@ -24,8 +24,8 @@ Documentation
 
 Product Versions
 ----------------
-* [TOL-20680](https://www.sparkfun.com/products/20680)- V1.2
-* [TOL-10617](https://www.sparkfun.com/products/10617)- Initial Release, v1.1
+* [TOL-20680](https://www.sparkfun.com/products/20680) - V1.2
+* [TOL-10617](https://www.sparkfun.com/products/10617) - Initial Release, v1.1
 
 
 License Information
