@@ -1,13 +1,11 @@
 SparkFun LiPo Fuel Gauge
 ========================================
 
-![SparkFun LiPo Fuel Gauge](https://cdn.sparkfun.com//assets/parts/5/2/7/9/10617-01c.jpg)
+![SparkFun LiPo Fuel Gauge](https://cdn.sparkfun.com//assets/parts/2/0/5/1/7/20680-_TOL_SparkFun_LiPo_Fuel_Gauge-_01.jpg)
 
-[*SparkFun LiPo Fuel Gauge (TOL-10617)*](https://www.sparkfun.com/products/10617)
+[*SparkFun LiPo Fuel Gauge (TOL-10617)*](https://www.sparkfun.com/products/20680)
 
-The SparkFun LiPo Fuel Gauge connects your battery to your project and uses a sophisticated algorithm to detect relative state of charge and direct A/D measurement of battery voltage. 
-In other words, it tells your microcontroller how much ‘fuel’ is left in the tank. 
-The LiPo Fuel Gauge communicates with your project over I2C and an alert pin also tells you when the charge has dropped below a certain percentage.
+The SparkFun LiPo Fuel Gauge connects your battery to your project and uses a sophisticated algorithm to detect relative state of charge and direct A/D measurement of battery voltage.  In other words, it tells your microcontroller how much ‘fuel’ is left in the tank. The LiPo Fuel Gauge communicates with your project over I2C and an alert pin also tells you when the charge has dropped below a certain percentage.
 
 Repository Contents
 -------------------
@@ -23,6 +21,11 @@ Documentation
 * **[Arduino Library](https://github.com/porrey/max1704x)** - Arduino library from user "porrey."
 * **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
 * **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
+
+Product Versions
+----------------
+* [TOL-20680](https://www.sparkfun.com/products/20680)- V1.2
+* [TOL-10617](https://www.sparkfun.com/products/10617)- Initial Release, v1.1
 
 
 License Information
