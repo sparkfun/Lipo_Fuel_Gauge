@@ -1,11 +1,13 @@
-SparkFun LiPo Fuel Gauge
+SparkFun LiPo Fuel Gauge - MAX17043
 ========================================
 
 [![SparkFun LiPo Fuel Gauge](https://cdn.sparkfun.com//assets/parts/2/0/5/1/7/20680-_TOL_SparkFun_LiPo_Fuel_Gauge-_01.jpg)](https://www.sparkfun.com/products/20680)
 
-[*SparkFun LiPo Fuel Gauge (TOL-10617)*](https://www.sparkfun.com/products/20680)
+[*SparkFun LiPo Fuel Gauge (TOL-20680)*](https://www.sparkfun.com/products/20680)
 
 The SparkFun LiPo Fuel Gauge connects your battery to your project and uses a sophisticated algorithm to detect relative state of charge and direct A/D measurement of battery voltage.  In other words, it tells your microcontroller how much ‘fuel’ is left in the tank. The LiPo Fuel Gauge communicates with your project over I2C and an alert pin also tells you when the charge has dropped below a certain percentage.
+
+
 
 Repository Contents
 -------------------
@@ -14,18 +16,26 @@ Repository Contents
 * **/Hardware** - Eagle design files (.brd, .sch)
 * **/Production** - Production panel files (.brd)
 
+
+
 Documentation
 --------------
 * **[Particle Photon Library](https://github.com/sparkfun/SparkFun_MAX17043_Particle_Library)** - Particle Library for the MAX17043 that is used in the [SparkFun Photon Battery Shield](https://www.sparkfun.com/products/13626).
 * **[Arduino Project Example](https://learn.sparkfun.com/tutorials/wireless-joystick-hookup-guide#MAX17043)** - Arduino project example that uses the MAX17043 in the [Wireless Joystick Kit](https://www.sparkfun.com/products/14051).
-* **[Arduino Library](https://github.com/porrey/max1704x)** - Arduino library from user "porrey."
-* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
+* **[SparkFun Arduino Library](https://github.com/sparkfun/SparkFun_MAX1704x_Fuel_Gauge_Arduino_Library)** - SparkFun Arduino library
+* **[Arduino Library](https://github.com/porrey/max1704x)** - Arduino library from user "porrey." This is another Arduino library that is available. 
+* **SparkFun Fritzing repo** - Fritzing diagrams for SparkFun products.
+  * **[TOL-20680](https://github.com/sparkfun/Fritzing_Parts/blob/main/products/20680_sfe_lipo_fuel_gauge_MAX17043_MAX1704X.fzpz)**
+  * **[TOL-10617](https://github.com/sparkfun/Fritzing_Parts/blob/main/products/10617_sfe_lipo_fuel_gauge.fzpz)**
 * **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
+
+
 
 Product Versions
 ----------------
-* [TOL-20680](https://www.sparkfun.com/products/20680) - V1.2
+* [TOL-20680](https://www.sparkfun.com/products/20680) - v1.2
 * [TOL-10617](https://www.sparkfun.com/products/10617) - Initial Release, v1.1
+
 
 
 License Information
