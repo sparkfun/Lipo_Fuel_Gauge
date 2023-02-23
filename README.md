@@ -27,7 +27,8 @@ Documentation
 * **SparkFun Fritzing repo** - Fritzing diagrams for SparkFun products.
   * **[TOL-20680](https://github.com/sparkfun/Fritzing_Parts/blob/main/products/20680_sfe_lipo_fuel_gauge_MAX17043_MAX1704X.fzpz)**
   * **[TOL-10617](https://github.com/sparkfun/Fritzing_Parts/blob/main/products/10617_sfe_lipo_fuel_gauge.fzpz)**
-* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
+* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/2946)** - Basic hookup guide for the MAX17043 and MAX17048.
 
 
 
